@@ -1,0 +1,20 @@
+{
+  "cwd": "c:\\htdocs\\mobile\\tests\\f7-pwa",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "My App",
+  "framework": "vue",
+  "template": "single-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
